@@ -1,4 +1,4 @@
-"NSCameraUsageDescription" = "If you want to attach the photos or videos to your questions or comments, Whasq asks you for permission to access your camera or gallery.";
-"NSLocationWhenInUseUsageDescription" = "If you want to ask questions to people nearby, Whasq asks you for permission to access your geolocation.";
-"NSMicrophoneUsageDescription" = "If you want to attach the audio recordings to your questions or comments, Whasq asks you for permission to access your microphone.";
-"NSPhotoLibraryUsageDescription" = "If you want to attach the photos or videos to your questions or comments, Whasq asks you for permission to access your camera or gallery.";
+"NSCameraUsageDescription" = "Se quiser anexar as fotos ou vídeos às suas perguntas ou comentários, deve dar autorizar ao Whasq para aceder sua câmera ou galeria..";
+"NSLocationWhenInUseUsageDescription" = "Se quiser fazer perguntas às pessoas, deve dar autorizar ao Whasq permissão para aceder à sua geolocalização..";
+"NSMicrophoneUsageDescription" = "Se deseja anexar as gravações de áudio às suas perguntas ou comentários, o Whasq lhe pede permissão para acessar ao seu microfone.";
+"NSPhotoLibraryUsageDescription" = "Se quiser anexar fotos ou vídeos às suas perguntas ou comentários, o Whasq pede permissão para aceder à sua câmera ou galeria..";
